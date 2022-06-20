@@ -41,3 +41,9 @@ function multiply(p1, p2) {
 }
 
 multiply(10, 4)
+
+function square(p1) {
+  console.log(`square of ${p1} = ${p1 * p1}`)
+}
+
+square(4)
