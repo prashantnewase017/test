@@ -47,3 +47,8 @@ function square(p1) {
 }
 
 square(4)
+function cube(p1) {
+  console.log(`cube of ${p1} = ${p1 * p1 * p1}`)
+}
+
+cube(4)
